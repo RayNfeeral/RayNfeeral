@@ -14,7 +14,7 @@
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" title="CSS3"><img style="height: auto; width: 32px;" src="icons/css.png" /></a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" title="JavaScript"><img style="height: auto; width: 32px;" src="icons/javascript.png" /></a>
 <a href="https://firebase.google.com/docs" title="Firebase"><img style="height: auto; width: 32px;" src="icons/firebase.png" /></a>
-<a href="https://nextjs.org/docs" title="Next"><img style="height: auto; width: 32px;" src="icons/next.png" /></a>
+<a href="https://nextjs.org/docs" title="Next"><img style="height: 32px; width: auto;" src="icons/next.png" /></a>
 
 ## Um pouco sobre mim :game_die:
 Meu nome é Rafael, tenho 25 anos e moro em Teresina, Piauí. Sou formado em Ciencias da Computação e atualmente trabalho com Next, Node e Firebase enquanto estudo na Trybe. Sou apaixonado por tecnologia e estou sempre aberto a novos desafios.
@@ -35,3 +35,9 @@ Meu nome é Rafael, tenho 25 anos e moro em Teresina, Piauí. Sou formado em Cie
 
 - <img style="height: auto; width: 20px;" src="icons/firebase.png" />&nbsp;&nbsp;&nbsp;Firebase
 - <img style="height: auto; width: 20px;" src="icons/next.png" />&nbsp;&nbsp;&nbsp;Next
+
+## Outras informações :satellite:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raynfeeral&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raynfeeral&show_icons=true&theme=dark&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
